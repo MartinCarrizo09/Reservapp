@@ -1,0 +1,5 @@
+[
+  { "usuario":"admin@demo.com", "clave":"admin123", "valido": true },
+  { "usuario":"invalido@demo.com", "clave":"mala", "valido": false }
+]
+

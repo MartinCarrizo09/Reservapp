@@ -1,0 +1,17 @@
+# Build y artefactos
+target/
+
+# IDEs
+.idea/
+.vscode/
+
+# Logs
+*.log
+
+# Allure
+allure-results/
+allure-report/
+
+# Screenshots Selenium
+selenium-screenshots/
+

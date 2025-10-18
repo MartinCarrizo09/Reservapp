@@ -1,0 +1,5 @@
+[
+  { "deporte":"Fútbol 5", "sede":"Centro", "fecha":"2025-11-10", "hora":"19:00", "cancha":"Cancha 1", "cliente":"Juan Pérez" },
+  { "deporte":"Pádel",    "sede":"Noroeste","fecha":"2025-11-11", "hora":"20:30", "cancha":"Cancha 4", "cliente":"Ana Gómez" }
+]
+
